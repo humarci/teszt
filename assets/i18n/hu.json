@@ -1,0 +1,95 @@
+{
+    "header": {
+        "title": "hu-cím"
+    },
+    "navigation": {
+        "aboutUs": "Rólunk",
+        "references": "Referenciák",
+        "services": "Szolgáltatások",
+        "contactAndQuote": "Kapcsolat & Ajánlatkérés"
+    },
+    "references": {
+        "title": "Referenciák",
+        "text1": "Korábbi munkáinkból válogatott képeink betekintést adnak cégünk szakmai tapasztalatába, megbízhatóságába és a kivitelezés minőségére fordított kiemelt figyelembe."
+    },
+    "cookieConsent": {
+        "title": "Sütikezelés",
+        "text": "Ez a weboldal sütiket használ a jobb felhasználói élmény érdekében.",
+        "accept": "Elfogadom"
+    },
+    "privacy": {
+        "link": "Adatvédelem",
+        "title": "Adatvédelem",
+        "text": "Folyamatban van az adatkezelési tájékoztató készítése.",
+        "close": "Bezárás"
+    },
+    "aboutUs": {
+        "title": "Bemutatkozás",
+        "text1": "Cégünk 2004-ben alakult Székesfehérváron, azzal a céllal, hogy megbízható és magas színvonalú szolgáltatásokat nyújtson az építőipar és az ingatlanpiac területén. Az elmúlt években számos sikeres projektet valósítottunk meg, melyek során szakmai tapasztalatunkat, precizitásunkat és elkötelezettségünket mindig ügyfeleink megelégedésére fordítottuk.",
+        "text2": "Célunk, hogy ügyfeleinknek teljes körű megoldást nyújtsunk az ingatlan megvalósításának és értékesítésének minden szakaszában – a tervezéstől a kivitelezésen át az adásvételig.",
+        "text3": "Székesfehérvári székhelyünkből kiindulva a régió meghatározó építőipari szereplőjeként arra törekszünk, hogy munkánk minden lépését a minőség, a megbízhatóság és a szakértelem jellemezze.",
+        "sub": {
+            "title": "Fő tevékenységeink közé tartozik:",
+            "text1": "szerkezetépítés és generálkivitelezés",
+            "text2": "monolit szerkezetek készítése",
+            "text3": "új építések teljes körű megvalósítása",
+            "text4": "új és használt ingatlanok értékesítése",
+            "text5": "ingatlanközvetítés és értékbecslés",
+            "text6": "ingatlanberuházások",
+            "text7": "felelős műszaki vezetés biztosítása"
+        }
+    },
+    "services": {
+        "title": "Szolgáltatások",
+        "subtitle1":"Dolgozói személyszállítás",
+        "text1": "Menetrendszerinti járatokat szervezünk megrendelőinknek a dolgozóik számára. Nemcsak a megfelelő méretű és minőségű autóbuszokról gondoskodunk, hanem az utasok számának függvényében az útvonalakat is optimalizáljuk. Ezáltal megrendelőink 10-30%-os költségmegtakarítást tudnak elérni a dolgozói elégedettség növekedése mellett.",
+        "subtitle2":"Belföldi különjárati utaztatás",
+        "text2": "Különjárati utazásokhoz is számíthatnak ránk. Jól felszerelt és kényelmes autóbuszaink kiváló ár-érték aránnyal állnak rendelkezésre. Igény esetén keressen minket a megadott elérhetőségeink egyikén.",
+        "subtitle3":"Személygépkocsis személyszállítás",
+        "text31": "Partnereinknél túlórás fuvarszervezési feladatokat is ellátunk, a részünkre eljuttatott listák alapján megszervezzük a dolgozók túlórás be- és hazaszállítását.",
+        "text32": "Cégünk reptéri transzferek lebonyolítását is vállalja Budapest, Bécs és Pozsony reptereiről.",
+        "subtitle4":"0-24-es elérhetőség",
+        "text4": "Cégünk a hét minden napján 0-24-es elérhetőséget biztosít a megrendelőink igényeinek teljes körű kiszolgálása érdekében",
+        "structuralConstruction": "🏗️ Szerkezet építés és generál kivitelezés",
+        "structuralConstructionBody": "Cégünk több mint 22 éves szakmai tapasztalattal vállal szerkezetépítési és teljes körű generálkivitelezési munkákat. A kivitelezési folyamat minden szakaszát összehangoltan és precízen irányítjuk, az alapozástól egészen a kulcsrakész átadásig. Kiemelt figyelmet fordítunk a minőségi anyaghasználatra, a határidők betartására és a műszaki megbízhatóságra. Tapasztalt szakembergárdánknak köszönhetően családi házak, társasházak és egyéb ingatlanprojektek kivitelezését is magas színvonalon valósítjuk meg, ügyfeleink igényeihez igazodva.",
+        "monolithicStructures": "🧱 Monolit szerkezetek készítése",
+        "monolithicStructuresBody": "Cégünk kiemelt szakterülete a monolit vasbeton szerkezetek kivitelezése, melyek az épületek tartósságának és stabilitásának alapját képezik. Magasan képzett szakembereink korszerű technológiákkal és precíz munkavégzéssel biztosítják a szerkezetek hosszú élettartamát és statikai megbízhatóságát. Legyen szó családi házról, társasházról vagy ipari létesítményről, minden projektet a legnagyobb odafigyeléssel valósítunk meg.",
+        "newConstruction": "🏗️ Új építések vállalása",
+        "newConstructionBody": "Teljes körű generálkivitelezést biztosítunk új építésű ingatlanok esetében, a tervezéstől a kulcsrakész átadásig. Ügyfeleink igényeit szem előtt tartva koordináljuk az építési folyamat minden lépését, biztosítva a határidők betartását és a magas minőségi színvonalat. Célunk, hogy ügyfeleink számára stresszmentes és kiszámítható építkezést nyújtsunk.",
+        "realEstateSales": "🏡 Új és használt ingatlanok értékesítése",
+        "realEstateSalesBody": "Segítünk ügyfeleinknek megtalálni az ideális otthont vagy befektetési lehetőséget. Portfóliónkban egyaránt megtalálhatók új építésű és használt ingatlanok, melyeket gondosan válogatunk és ellenőrzünk. Az értékesítés során végigkísérjük ügyfeleinket a teljes folyamaton, biztosítva a gördülékeny és biztonságos ügyintézést.",
+        "realEstateBrokerage": "📊 Ingatlan közvetítés, értékbecslés",
+        "realEstateBrokerageBody": "Szakszerű ingatlanközvetítési szolgáltatásunkkal támogatjuk az eladókat és vásárlókat egyaránt. Pontos és megalapozott értékbecslést készítünk, figyelembe véve a piaci viszonyokat és az adott ingatlan sajátosságait. Célunk, hogy ügyfeleink a lehető legjobb döntést hozhassák meg.",
+        "realEstateInvestments": "🏢 Ingatlan beruházások",
+        "realEstateInvestmentsBody": "Cégünk több mint 22 éves szakmai tapasztalattal, saját erőből valósít meg ingatlanberuházásokat, a tervezési fázistól egészen a kivitelezésig. A projektek teljes folyamatát kézben tartjuk, így biztosítani tudjuk a magas műszaki színvonalat, a költséghatékonyságot és a következetes minőséget. Az elkészült ingatlanokat közvetlenül értékesítjük, így vevőink első kézből, megbízható háttérrel vásárolhatnak. Tapasztalatunknak és piaci ismereteinknek köszönhetően olyan ingatlanokat hozunk létre, amelyek hosszú távon is értéket képviselnek, legyen szó lakó- vagy befektetési célról.",
+        "technicalManagement": "🧾 Felelős műszaki vezetés",
+        "technicalManagementBody": "Vállaljuk építkezések teljes körű műszaki felügyeletét, biztosítva a kivitelezés szakszerűségét és jogszabályi megfelelőségét. Felelős műszaki vezetőként koordináljuk a munkafolyamatokat, ellenőrizzük a minőséget és gondoskodunk arról, hogy az építkezés a terveknek megfelelően haladjon. Ügyfeleink számára ez garanciát jelent a biztonságos és szabályos kivitelezésre."
+    },
+    "fleet": {
+        "title": "Járműpark",
+        "text1": "Biztonságos, jól felszerelt, saját szervizműhelyünkben karbantartott járműparkunk igénytől függően bármikor az Ön a rendelkezésére áll. Járműparkunk 4-53 fő szállítására alkalmas közlekedési eszközökből áll, amelyek segítségével a legkülönfélébb személyszállítási igények kielégítése sem okoz problémát."
+    },
+    "requestAQuote": {
+        "title": "Ajánlatkérés",
+        "text1": "Kérjük ajánlatkéréshez a szállítással kapcsolatos minden rendelkezésre álló információt osszon meg velünk, hogy mi is a legpontosabban tudjuk meghatározni a várható költségeket és szállítási feltételeket."
+    },
+    "jobOpportunities": {
+        "title": "Állásajánlatok",
+        "text1": "Sajnáljuk, jelenleg nincs nyitott pozíciónk!"
+    },
+    "contact": {
+        "title": "Kapcsolat & Ajánlatkérés",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "inputField-name": "Név",
+        "inputField-email": "E-mail",
+        "inputField-phone": "Telefon",
+        "inputField-textArea": "Üzenet (max. 500 karakter)",
+        "btn-submit": "Küldés",
+        "msg-success": "Üzenet sikeresen elküldve!",
+        "ceo": "Ügyvezető",
+        "administrativeContact": "Kapcsolattartó adminisztratív munkatárs"
+    },
+    "footer": {
+        "allRight": "Minden jog fenntartva"
+    }
+}

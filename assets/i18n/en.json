@@ -1,0 +1,95 @@
+{
+    "header": {
+        "title": "en-title"
+    },
+    "navigation": {
+        "aboutUs": "About Us",
+        "references": "References",
+        "services": "Services",
+        "contactAndQuote": "Contact & Request Quote"
+    },
+    "references": {
+        "title": "References",
+        "text1": "A curated selection of our completed projects in images, showcasing our professional experience, reliability, and strong commitment to high-quality execution."
+    },
+    "cookieConsent": {
+        "title": "Cookie Policy",
+        "text": "This website uses cookies to provide a better user experience.",
+        "accept": "Accept"
+    },
+    "privacy": {
+        "link": "Privacy Policy",
+        "title": "Privacy Policy",
+        "text": "The data protection policy is currently being prepared.",
+        "close": "Close"
+    },
+    "aboutUs": {
+        "title": "About Us",
+        "text1": "Our company was founded in 2004 in Székesfehérvár with the goal of providing reliable and high-quality services in the construction industry and real estate market. Over the years, we have successfully completed numerous projects, during which we have always applied our professional experience, precision, and commitment to the satisfaction of our clients.",
+        "text2": "Our goal is to provide our clients with comprehensive solutions at every stage of property development and sales – from planning through construction to final sale.",
+        "text3": "Operating from our headquarters in Székesfehérvár, as a leading construction industry player in the region, we strive to ensure that every step of our work is characterized by quality, reliability, and expertise.",
+        "sub": {
+            "title": "Our main activities include:",
+            "text1": "structural construction and general contracting",
+            "text2": "construction of monolithic structures",
+            "text3": "comprehensive implementation of new constructions",
+            "text4": "sale of new and used properties",
+            "text5": "real estate brokerage and appraisal",
+            "text6": "real estate investments",
+            "text7": "providing responsible technical management"
+        }
+    },
+    "services": {
+        "title": "Services",
+        "subtitle1": "Employee Transportation",
+        "text1": "We organize scheduled routes for our clients to transport their employees. We not only provide buses of appropriate size and quality, but also optimize the routes based on the number of passengers. This allows our clients to achieve a 10–30% cost saving while increasing employee satisfaction.",
+        "subtitle2": "Domestic Charter Trips",
+        "text2": "You can also count on us for charter trips. Our well-equipped and comfortable buses are available at excellent value for money. If needed, feel free to contact us through any of the provided contact details.",
+        "subtitle3": "Passenger Transport by Car",
+        "text31": "We also handle overtime transport tasks for our partners. Based on the lists provided to us, we organize the pick-up and drop-off of employees working overtime.",
+        "text32": "Our company also provides airport transfer services from the airports of Budapest, Vienna, and Bratislava.",
+        "subtitle4": "24/7 Availability",
+        "text4": "Our company provides 24/7 availability every day of the week to fully meet the needs of our clients.",
+        "structuralConstruction": "🏗️ Structural construction and general contracting",
+        "structuralConstructionBody": "With over 22 years of professional experience, our company undertakes structural construction and comprehensive general contracting work. We manage every phase of the construction process in a coordinated and precise manner, from the foundation through to turnkey handover. We place particular emphasis on the use of quality materials, meeting deadlines and ensuring technical reliability. Thanks to our experienced team of specialists, we carry out family homes, apartment buildings and other property projects to a high standard, tailored to the needs of our clients.",
+        "monolithicStructures": "🧱 Construction of monolithic structures",
+        "monolithicStructuresBody": "One of our core specialisations is the construction of monolithic reinforced concrete structures, which form the foundation of a building's durability and stability. Our highly qualified specialists use state-of-the-art technologies and precise workmanship to ensure the long service life and structural reliability of every construction. Whether it is a family home, apartment building or industrial facility, every project is executed with the utmost care and attention.",
+        "newConstruction": "🏗️ New construction projects",
+        "newConstructionBody": "We provide comprehensive general contracting services for new-build properties, from the planning stage through to turnkey handover. Keeping our clients' needs at the forefront, we coordinate every step of the construction process to ensure deadlines are met and the highest quality standards are maintained. Our goal is to deliver a stress-free and predictable construction experience for our clients.",
+        "realEstateSales": "🏡 Sale of new and used properties",
+        "realEstateSalesBody": "We help our clients find their ideal home or investment opportunity. Our portfolio includes both new-build and existing properties, each carefully selected and verified. Throughout the sales process, we guide our clients every step of the way, ensuring smooth and secure administration.",
+        "realEstateBrokerage": "📊 Real estate brokerage and appraisal",
+        "realEstateBrokerageBody": "Our professional real estate brokerage services support both buyers and sellers alike. We provide accurate and well-founded property valuations, taking into account current market conditions and the specific characteristics of the property. Our aim is to help our clients make the best possible decision.",
+        "realEstateInvestments": "🏢 Real estate investments",
+        "realEstateInvestmentsBody": "With over 22 years of professional experience, our company develops real estate investment projects using its own resources, from the planning phase through to completion. We maintain full control over every stage of the project, enabling us to guarantee high technical standards, cost-efficiency and consistent quality. The completed properties are sold directly by us, so our buyers can purchase with confidence, backed by a reliable developer. Thanks to our experience and market knowledge, we create properties that retain their value in the long term, whether for residential or investment purposes.",
+        "technicalManagement": "🧾 Responsible technical management",
+        "technicalManagementBody": "We undertake comprehensive technical supervision of construction projects, ensuring that all work is carried out professionally and in compliance with relevant regulations. As responsible technical managers, we coordinate workflows, monitor quality and ensure that the construction progresses in accordance with the plans. For our clients, this represents a guarantee of safe and compliant execution."
+    },
+    "fleet": {
+        "title": "Fleet",
+        "text1": "Our safe, well-equipped fleet—maintained in our own service workshop—is available to you at any time, depending on your needs. Our vehicles can accommodate between 4 and 53 passengers, allowing us to meet a wide range of passenger transport requirements with ease."
+    },
+    "requestAQuote": {
+        "title": "Request a Quote",
+        "text1": "Please share with us all available information related to the shipping when requesting a quotation, so that we can determine the expected costs and delivery terms as accurately as possible."
+    },
+     "jobOpportunities": {
+        "title": "Job Opportunities",
+        "text1": "We're sorry, but we currently have no open positions!"
+    },
+     "contact": {
+        "title": "Contact & Request Quote",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "inputField-name": "Name",
+        "inputField-email": "E-mail",
+        "inputField-phone": "Phone",
+        "inputField-textArea": "Message (max. 500 characters)",
+        "btn-submit": "Submit",
+        "msg-success": "Message sent successfully!",
+        "ceo": "Chief Executive Officer",
+        "administrativeContact": "Administrative Contact"
+    },
+    "footer": {
+        "allRight": "All rights reserved"
+    }
+}
